@@ -1,0 +1,30 @@
+[33mcommit 984f4c6cce6f966015333963f066305dd6a5ff69[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: a90ec1d fcdd068
+Author: GutierrezJuaquinFranco <juaquin.gutierrez02@gmail.com>
+Date:   Mon Apr 11 15:56:47 2022 +0800
+
+    Merge branch 'song2'
+
+[33mcommit a90ec1d47ca77ff9410ccbff2d963af690aa141a[m[33m ([m[1;32mcontact[m[33m)[m
+Author: GutierrezJuaquinFranco <juaquin.gutierrez02@gmail.com>
+Date:   Mon Apr 11 15:43:19 2022 +0800
+
+    contact
+
+[33mcommit fcdd068581ed997c4283f562d4452d70d9ee97d7[m[33m ([m[1;32msong2[m[33m)[m
+Author: GutierrezJuaquinFranco <juaquin.gutierrez02@gmail.com>
+Date:   Mon Apr 11 15:34:56 2022 +0800
+
+    song2
+
+[33mcommit 2f43ad47da2508d54639c553a39a61deb315379b[m[33m ([m[1;32msong1[m[33m)[m
+Author: GutierrezJuaquinFranco <juaquin.gutierrez02@gmail.com>
+Date:   Mon Apr 11 15:33:12 2022 +0800
+
+    song1
+
+[33mcommit 5308b77869772d028ee56f70d746ca941d7e5951[m[33m ([m[1;32mindex[m[33m)[m
+Author: GutierrezJuaquinFranco <juaquin.gutierrez02@gmail.com>
+Date:   Mon Apr 11 14:40:34 2022 +0800
+
+    index
